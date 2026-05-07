@@ -1,6 +1,4 @@
-<!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
@@ -1101,7 +1099,6 @@
         <div class="project-thumb thumb-a">🛍️</div>
         <div class="project-body">
           <div class="project-tags"><span class="tag">HTML
-
             </span><span class="tag">CSS</span><span class="tag">JS</span>
           </div>
           <div class="project-title">Shop Landing Page</div>
@@ -1118,7 +1115,6 @@
         <div class="project-thumb thumb-b">🌦️</div>
         <div class="project-body">
           <div class="project-tags"><span class="tag">HTML
-
             </span><span class="tag">CSS</span><span class="tag">Fetch
               API</span></div>
           <div class="project-title">Weather Dashboard</div>
@@ -1253,7 +1249,8 @@
       <p style="color:var(--muted);font-size:0.85rem">I typically respond within 24 hours.</p>
       <div class="contact-links">
         <a href="mailto:muzamilkeerio156@gmail.com" class="contact-btn">✉ Email</a>
-        <a href="https://www.linkedin.com/in/muzamil-keerio-47089b2b5/" class="contact-btn">💼 LinkedIn</a>
+        <a href="" class="contact-btn">💼 LinkedIn</a>
+        <a href="linkedin.com/in/muzamil-keerio-61a335381" class="contact-btn">💼 LinkedIn</a>
         <a href="https://www.instagram.com/muzamil_keeri0/" class="contact-btn">instagram</a>
         <a href="https://wa.me/+923147889834" class="contact-btn">📱 WhatsApp</a>
       </div>
@@ -1364,17 +1361,4 @@
 
 </html>
 
-<!--
-**muzamilkeerio/muzamilkeerio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
